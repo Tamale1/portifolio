@@ -13,23 +13,22 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+         Hello! My name is <strong>Yusuf<strong> a passionate  full-stack software developer with a keen enthusiasm for computing. 
+Armed with a Bachelor's degree in Information Technology and a certification in big data,
+ my journey in the tech field has been marked by a deep love for crafting innovative solutions.
+ I thrive on challenges and have honed my skills through collaborative efforts within dynamic teams. As a proactive learner, 
+I enjoy staying ahead of the curve in this ever-evolving field, constantly seeking opportunities to expand my knowledge and expertise.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          My professional journey has been grounded in hands-on experiences, contributing to diverse projects that have 
+allowed me to showcase my proficiency in both front-end and back-end development. The blend of my academic background 
+and real-world problem-solving experiences has equipped me to navigate the complexities of modern software development.
+ Whether it's architecting scalable systems or delving into the intricacies of big data I 
+look forward to each new opportunity as a chance to not only contribute to the 
+advancement of technology but also to connect with like-minded individuals who share a passion for innovation and growth.
         </p>
       </div>
     </div>

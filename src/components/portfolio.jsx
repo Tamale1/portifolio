@@ -1,5 +1,7 @@
 import React from "react";
  import biruz from "../assets/portfolio/biruz.png";
+import { Link } from "react-scroll";
+//import { Link } from "react-router-dom";
 // import installNode from "../assets/portfolio/installNode.jpg";
 // import navbar from "../assets/portfolio/navbar.jpg";
 // import reactParallax from "../assets/portfolio/reactParallax.jpg";
@@ -56,9 +58,11 @@ const Portfolio = () => {
                 className="rounded-md duration-200 hover:scale-105"
               />
               <div className="flex items-center justify-center">
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Demo
+              
+                <button  className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+                  Demo 
                 </button>
+                
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Code
                 </button>
