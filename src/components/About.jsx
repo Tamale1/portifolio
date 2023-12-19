@@ -13,7 +13,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-         Hello! My name is <strong>Yusuf</strong>  a passionate  full-stack software developer with a keen enthusiasm for computing. 
+         Hello! My name is <strong style={{color: 'navy'}}>Yusuf</strong>  a passionate  full-stack software developer with a keen enthusiasm for computing. 
         Armed with a Bachelor's degree in Information Technology and a certification in big data,
        my journey in the tech field has been marked by a deep love for crafting innovative solutions.
         I thrive on challenges and have honed my skills through collaborative efforts within dynamic teams. As a proactive learner, 
