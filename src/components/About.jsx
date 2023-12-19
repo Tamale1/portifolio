@@ -20,7 +20,7 @@ const About = () => {
        I enjoy staying ahead of the curve in this ever-evolving field, constantly seeking opportunities to expand my knowledge and expertise.
         </p>
 
-        <br />
+   
 
         <p className="text-xl">
           My professional journey has been grounded in hands-on experiences, contributing to diverse projects that have 
