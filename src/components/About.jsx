@@ -22,7 +22,7 @@ const About = () => {
 
    
 
-        <p className="text-xl">
+        <p className="text-xl mb-20">
           My professional journey has been grounded in hands-on experiences, contributing to diverse projects that have 
 allowed me to showcase my proficiency in both front-end and back-end development. The blend of my academic background 
 and real-world problem-solving experiences has equipped me to navigate the complexities of modern software development.
