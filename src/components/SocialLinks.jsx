@@ -13,7 +13,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/yusufu-nkoyoyo-98a16636a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfY%2FDe1Y2QFq%2BPtOn6TaENw%3D%3D",
       style: "rounded-tr-md",
     },
     {
@@ -49,10 +49,10 @@ const SocialLinks = () => {
         id: 5,
         child: (
           <>
-            Twitter <AiFillTwitterCircle size={30} />
+            X <AiFillTwitterCircle size={30} />
           </>
         ),
-        href: "https://twitter.com/yusufontwiter",
+        href: "https://twitter.com/simply_yusuf",
       },
   ];
 
